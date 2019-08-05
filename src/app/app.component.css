@@ -1,0 +1,17 @@
+@import url('https://js.arcgis.com/4.10/esri/css/main.css');
+.esri-view {
+    height: 100%;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+:host {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
